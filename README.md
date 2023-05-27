@@ -20,18 +20,18 @@ As an AI Engineer at Thingtrax Ltd, responsible for developing applications by i
 
 ## 🛠️ Tech Stack
 
-- Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- OpenCV ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-- SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-- Jetson ![Jetson](https://img.shields.io/badge/-Jetson-76B900?logo=nvidia&logoColor=white)
-- TensorRT ![TensorRT](https://img.shields.io/badge/-TensorRT-FF4500?logo=nvidia&logoColor=white)
-- FastAPI ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-- Amazon EC2 ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-232F3E?logo=amazonaws&logoColor=white)
-- Pandas ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-- Flask ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-- Shinobi ![Shinobi](https://img.shields.io/badge/-Shinobi-FF7F50?logo=shinobi&logoColor=white)
-- Bash Scripting ![Bash Scripting](https://img.shields.io/badge/-Bash%20Scripting-4EAA25?logo=gnu-bash&logoColor=white)
-- Linux ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+- ![Jetson](https://img.shields.io/badge/-Jetson-76B900?logo=nvidia&logoColor=white)
+- ![TensorRT](https://img.shields.io/badge/-TensorRT-FF4500?logo=nvidia&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+- ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-232F3E?logo=amazonaws&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+- ![Shinobi](https://img.shields.io/badge/-Shinobi-FF7F50?logo=shinobi&logoColor=white)
+- ![Bash Scripting](https://img.shields.io/badge/-Bash%20Scripting-4EAA25?logo=gnu-bash&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 
 ## 📫 How to Reach Me
